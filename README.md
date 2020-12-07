@@ -1,5 +1,6 @@
 # TAG
  - 그림 1.1 https://www.notion.so/9f68a687e5664742a19d4e7ff418725d#a572b587dd60490fa5460c6e40fd5610
+ - 그림 1.2 https://www.notion.so/9f68a687e5664742a19d4e7ff418725d#2e17d613e89a45efaf3b38242ec6a302
 
 # Using Dagger in your Android app
 
