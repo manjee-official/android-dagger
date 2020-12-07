@@ -32,11 +32,13 @@ class RegistrationActivity : AppCompatActivity() {
     lateinit var registrationViewModel: RegistrationViewModel
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_registration)
 
         // Ask Dagger to inject our dependencies
+        // Fragment 복원 방지 문제를 위해 onCreate 전에 사용
         (application as MyApplication).appComponent.inject(this)
+
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_registration)
         
         supportFragmentManager.beginTransaction()
             .add(R.id.fragment_holder, EnterDetailsFragment())
