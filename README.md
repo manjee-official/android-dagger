@@ -3,6 +3,7 @@
  - 그림 1.2 https://www.notion.so/9f68a687e5664742a19d4e7ff418725d#2e17d613e89a45efaf3b38242ec6a302
  - 그림 1.3 https://www.notion.so/9f68a687e5664742a19d4e7ff418725d#b56f6c886ee44bdca484d3664a847c39
  - 그림 1.4 https://www.notion.so/9f68a687e5664742a19d4e7ff418725d#f887568fb21a450fb7b6b4b0bf419841
+ - 그림 1.5 https://www.notion.so/9f68a687e5664742a19d4e7ff418725d#0089ff9c23164baa809e85e2606ae4f6
 
 # Using Dagger in your Android app
 
